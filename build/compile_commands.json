@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/cwj/PointCloud/build",
+  "command": "/usr/bin/c++ -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -g -o CMakeFiles/viewer.dir/src/viewer.cpp.o -c /home/cwj/PointCloud/src/viewer.cpp",
+  "file": "/home/cwj/PointCloud/src/viewer.cpp",
+  "output": "CMakeFiles/viewer.dir/src/viewer.cpp.o"
+},
+{
+  "directory": "/home/cwj/PointCloud/build",
+  "command": "/usr/bin/c++ -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -g -o CMakeFiles/icp.dir/src/icp.cpp.o -c /home/cwj/PointCloud/src/icp.cpp",
+  "file": "/home/cwj/PointCloud/src/icp.cpp",
+  "output": "CMakeFiles/icp.dir/src/icp.cpp.o"
+},
+{
+  "directory": "/home/cwj/PointCloud/build",
+  "command": "/usr/bin/c++ -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -g -o CMakeFiles/show_result.dir/src/show_result.cpp.o -c /home/cwj/PointCloud/src/show_result.cpp",
+  "file": "/home/cwj/PointCloud/src/show_result.cpp",
+  "output": "CMakeFiles/show_result.dir/src/show_result.cpp.o"
+},
+{
+  "directory": "/home/cwj/PointCloud/build",
+  "command": "/usr/bin/c++ -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2 -g -o CMakeFiles/FPFH.dir/src/FPFH.cpp.o -c /home/cwj/PointCloud/src/FPFH.cpp",
+  "file": "/home/cwj/PointCloud/src/FPFH.cpp",
+  "output": "CMakeFiles/FPFH.dir/src/FPFH.cpp.o"
+}
+]

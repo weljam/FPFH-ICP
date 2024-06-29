@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pcd_viewer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FPFH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FPFH-Debug-d563551b919010bf750a.json",
+					"name" : "FPFH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "icp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-icp-Debug-4852cd7bd7f90eeddd4d.json",
+					"name" : "icp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_result::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_result-Debug-b2d2dddf90789f2e47cc.json",
+					"name" : "show_result",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "viewer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-viewer-Debug-96b64d7811570c82b143.json",
+					"name" : "viewer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/cwj/PointCloud/build",
+		"source" : "/home/cwj/PointCloud"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

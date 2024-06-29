@@ -1,0 +1,6 @@
+/home/cwj/PointCloud/build/CMakeFiles/viewer.dir
+/home/cwj/PointCloud/build/CMakeFiles/icp.dir
+/home/cwj/PointCloud/build/CMakeFiles/show_result.dir
+/home/cwj/PointCloud/build/CMakeFiles/FPFH.dir
+/home/cwj/PointCloud/build/CMakeFiles/edit_cache.dir
+/home/cwj/PointCloud/build/CMakeFiles/rebuild_cache.dir
